@@ -1,0 +1,60 @@
+body {
+    margin: 0px;
+    font-size: 90%;
+    text-align: left;
+    display: block;
+}
+
+
+.top-header {
+    background-image: url('../img/pattern.png');
+    background-color: rgb(175, 218, 255);
+    margin: 0px;
+}
+
+.logo {
+    height: 50px;
+    padding: 50px;
+    position: relative;
+    left: 180px;
+}
+
+.top {
+    margin: 20px 150px 20px 150px;
+}
+
+p {
+    margin: 0px;
+}
+
+div {
+    margin-top: 30px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+span {
+    background-color: yellow;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+th {
+    background-color: rgb(152, 191, 255);
+    width: 150px;
+}
+
+.line-color {
+    background-color: rgb(211, 228, 255);
+}
+
+.bottom-footer {
+    background-color: rgb(52, 34, 122);
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
